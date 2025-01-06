@@ -1,7 +1,9 @@
 {
   "run": {
-    "type": "url",
+    "type": "file",
     "task": "",
-    "url": "https://github.com/dmang69/password-hashing"
+    "url": "https://github.com/dmang69/password-hashing",
+    "file": "",
+    "ignoreCurrent": false
   }
 }
